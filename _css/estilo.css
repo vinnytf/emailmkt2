@@ -1,0 +1,32 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+
+#cabecalho {
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+#conteudo {
+	font-family: arial;
+	margin-top: 30px;
+	margin-left: 15px;
+
+}
+
+h3 {
+	font-family: 'Lexend Deca', sans-serif;
+	color: #c441ae;
+	text-shadow: 1px 1px black;
+	color: #649e9b;
+}
+
+#gato {
+	position: relative;
+	left: 350px;
+	bottom: 100px;
+
+}
+
